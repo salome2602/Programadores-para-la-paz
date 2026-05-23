@@ -1,0 +1,7 @@
+Es importante que los proyectos de software mantengan un registro de cambios usando herramientas como Git porque permite llevar un control organizado de todo lo que se modifica en el proyecto.
+Cada cambio queda guardado, por lo que es más fácil saber quién hizo una modificación y cuándo la realizó.
+Además, si ocurre un error, se puede volver a una versión anterior sin perder todo el trabajo.
+Git también facilita el trabajo en equipo, ya que varias personas pueden colaborar en el mismo proyecto de manera ordenada.Otra ventaja es que ayuda a evitar confusiones y pérdida de información importante.
+Gracias a estas herramientas, los proyectos son más seguros y fáciles de administrar.
+También permite compartir el trabajo en plataformas como GitHub y tener una copia de respaldo en internet.
+En conclusión, Git es una herramienta muy útil para mantener los proyectos organizados, seguros y actualizados. 
