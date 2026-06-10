@@ -1,0 +1,1 @@
+El servidor recibe los datos enviados por el usuario y responde confirmando que los datos fueron recibidos correctamente.
