@@ -1,0 +1,14 @@
+¿Qué evento activa el flujo?
+Cuando un ciudadano registra un nuevo reporte en el sistema.
+
+¿Qué mensaje se enviaría a Telegram?
+"Nuevo reporte recibido. Ingrese al sistema para revisarlo."
+
+¿Qué información no debería enviarse por seguridad?
+No se deben enviar nombres completos, números de identificación, direcciones, teléfonos, contraseñas ni ningún dato personal o sensible.
+
+Flujo de automatización:
+1. Un ciudadano registra un reporte.
+2. n8n detecta el nuevo reporte.
+3. n8n envía un mensaje automático al grupo de Telegram.
+4. El coordinador recibe la notificación y revisa el caso en el sistema.
