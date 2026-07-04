@@ -1,0 +1,24 @@
+Entidad: ProyectoComunitario
+
+Campos principales:
+- id
+- nombre
+- descripcion
+- fecha_inicio
+- responsable
+
+Propósito:
+Almacenar la información de los proyectos o iniciativas que buscan solucionar necesidades de la comunidad.
+
+
+Entidad: Participante
+
+Campos principales:
+- id
+- proyecto_id
+- nombre
+- correo
+- fecha_registro
+
+Propósito:
+Registrar las personas interesadas en participar en los proyectos comunitarios y llevar un control de la participación ciudadana.
